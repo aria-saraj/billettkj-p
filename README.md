@@ -3,11 +3,13 @@ OsloMet brukernavn: s333550
 
 GitHub brukernavn: aria-saraj
 
-Github repo URL: 
+Github repo URL: https://github.com/aria-saraj/billettkj-p.git
 
 Youtube-link to video: https://youtu.be/sNqQO-UJl3k
 
 Fullt navn: Aria Saraj
+
+NB! Got issues with GitHub Classroom, so I made an ordinary public repository. 
 
 Kort beskrivelse av applikasjon (5-10 setninger):
 
